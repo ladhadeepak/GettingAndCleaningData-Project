@@ -5,12 +5,12 @@ Code book gives brief detail on the result data - tidy_data.txt
 ## Id (Identifiers) Columns
 * subject - Identification of a volunteer participated in this experiment
 * activity - Various activities performed by a volunteer in this experiment
-	1 WALKING            
-	2 WALKING_UPSTAIRS   
-	3 WALKING_DOWNSTAIRS 
-	4 SITTING            
-	5 STANDING
-	6 LAYING
+  * WALKING            
+  * WALKING_UPSTAIRS   
+  * WALKING_DOWNSTAIRS 
+  * SITTING            
+  * STANDING
+  * LAYING
 
 
 ## Measurement Variables
